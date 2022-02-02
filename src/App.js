@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+       <a className="mylink" href="https://google.com">google</a>
       </header>
     </div>
   );
